@@ -159,4 +159,4 @@ You can also use arguments for quick start, for example:
 
 ### Contacts
 
-[Join our Telegram Channel](https://t.me/Looterera_Th)
+[Join our Telegram Channel](https://t.me/Lootersera_Th)
