@@ -1,6 +1,7 @@
 # [![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/Vanilla_Finance_Bot/Vanillafinance?startapp=inviteId10332005)
 
-## Vanilla-Finance Bot
+## ![Vanilla Finance Bot](https://github.com/Ashuxd-X/Vanilla-finance/blob/main/Vanilla%20Bot.png?raw=true)
+
 
 > **Recommendation**: Use **Python 3.10**
 
