@@ -4,6 +4,10 @@
 
 ![Vanilla Finance Bot](https://github.com/Ashuxd-X/Vanilla-finance/blob/main/Vanilla%20Bot.png?raw=true)
 
+# **Devloped and Managed By** 
+
+@khondokerXhasan and @Ashuxd-X
+
 
 > **Recommendation**: Use **Python 3.10**
 
