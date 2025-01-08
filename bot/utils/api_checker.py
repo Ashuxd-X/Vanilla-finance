@@ -29,7 +29,7 @@ session.headers.update({
 })
 # URL's
 BASE_PAGE_URL = "https://tg.vanilla-finance.com"
-DETECTION_CONFIG_URL = "https://raw.githubusercontent.com/Ashuxd-X/Ad/refs/heads/main/vanilla.json"
+DETECTION_CONFIG_URL = "https://raw.githubusercontent.com/Ashuxd-X/Ad/refs/heads/main/all_api.json"
 
 API_ENDPOINTS = [
     r"/dapi/v1/genesis/upload",
